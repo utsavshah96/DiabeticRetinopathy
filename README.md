@@ -6,7 +6,7 @@ Run
 <br>
 Preprocessing
 <br>
-NLP
+MLP
 <br>
 Keras
 <br>
