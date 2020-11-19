@@ -1,8 +1,13 @@
 # DSPFinalProject
 
 Final Project
+<br>
 Run 
+<br>
 Preprocessing
-MLP
+<br>
+NLP
+<br>
 Keras
+<br>
 CNN models
