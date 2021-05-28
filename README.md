@@ -1,6 +1,4 @@
-# DSPFinalProject
 
-Final Project
 <br>
 Run 
 <br>
